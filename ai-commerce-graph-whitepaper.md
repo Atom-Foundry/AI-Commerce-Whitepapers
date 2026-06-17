@@ -1,3 +1,5 @@
+![AI Commerce Graph](AI-commerce-graph.png)
+
 # AI Commerce Graph™
 
 ## The Infrastructure Layer Behind AI Commerce Intelligence™
