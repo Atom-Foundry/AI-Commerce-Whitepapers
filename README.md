@@ -10,6 +10,13 @@ A collection of public whitepapers exploring how AI systems discover, understand
 - AI Readability™
 - AI Understanding™
 - AI Trust™
+- State of AI Recommendations Across Commerce 2026
+- AI Recommends by Fame, Not Store Quality 2026
+
+## Research Studies
+
+- State of AI Recommendations Across Commerce 2026
+- AI Recommends by Fame, Not Store Quality 2026
 
 ## Core Thesis
 
